@@ -14,3 +14,6 @@ Sauvegarde automatique dans l'appareil (localStorage).
 - Chaque carte a des objectifs obligatoires (pour ouvrir la suivante) et des objectifs bonus (étoiles ⭐ et argent).
 - Chaque carte repart de zéro ; succès, fossiles et quiz sont partagés. Une minicarte permet de se déplacer.
 - Les anciennes sauvegardes sont reprises dans la Prairie.
+
+## Icône
+Le logo (tête de T-Rex) est dans le dossier assets/ : l'icône Android est générée automatiquement à la compilation.
